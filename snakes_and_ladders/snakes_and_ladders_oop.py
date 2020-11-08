@@ -102,7 +102,7 @@ class Game:
 
 
     def draw_text(self, x:int, y:int) -> None:
-        """draws numers that fill the board. Numbers range from 1 to 100"""
+        """draws numbers that fill the board. Numbers range from 1 to 100"""
         BLACK=(0,0,0)
         width = 100
         length = 100
